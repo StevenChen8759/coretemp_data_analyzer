@@ -139,3 +139,5 @@ cython_debug/
 
 # Self_defined ignore items
 data/
+output/
+.vscode/
